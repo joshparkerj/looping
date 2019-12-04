@@ -1,7 +1,7 @@
 # looping
 Cataloging looping constructs in programming.
 
-```
+```JavaScript
 for (i = 0; i < 10; i++) {
  console.log(i);
 }
