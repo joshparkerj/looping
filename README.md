@@ -6,6 +6,10 @@ Cataloging looping constructs in programming.
 for (i = 0; i < 10; i++) {
  console.log(i);
 }
+i = 0;
+while(i--){
+ console.log(`John${i}`);
+}
 ```
 # C#
 
